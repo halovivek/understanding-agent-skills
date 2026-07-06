@@ -10,17 +10,30 @@ After completing this chapter, you will be able to:
 - Differentiate AI assistants, workflows, and autonomous agents.
 - Describe enterprise use cases for Agentic AI.
 
-## Chapter Outline
+## Introduction
 
-1. What is Artificial Intelligence?
-2. What is an AI Agent?
-3. Evolution of AI Systems
-4. Characteristics of Intelligent Agents
-5. Agent Lifecycle
-6. Enterprise Applications
-7. Challenges and Risks
-8. Summary
-9. Exercises
-10. Interview Questions
+Artificial Intelligence (AI) has evolved from simple rule-based programs into systems capable of reasoning, generating content, planning tasks, and collaborating with humans. The latest stage of this evolution is **Agentic AI**, where AI systems can pursue goals, use tools, maintain memory, and make decisions within defined constraints.
 
-> This chapter serves as the foundation for the rest of the book. Subsequent chapters will expand each topic with architecture diagrams, code examples, hands-on labs, and production-ready implementations.
+Unlike traditional software that follows fixed instructions, agentic systems can observe, reason, act, and adapt. They combine Large Language Models (LLMs), external tools, memory, and planning techniques to solve complex problems.
+
+## What Is Artificial Intelligence?
+
+Artificial Intelligence is the field of computer science focused on creating systems that perform tasks requiring human intelligence, including learning, reasoning, perception, language understanding, and decision making.
+
+### AI vs Machine Learning vs Deep Learning vs Agentic AI
+
+| Concept | Primary Focus |
+| --- | --- |
+| Artificial Intelligence | Intelligent behavior |
+| Machine Learning | Learning patterns from data |
+| Deep Learning | Neural-network based learning |
+| Generative AI | Creating new content |
+| Agentic AI | Goal-oriented autonomous execution |
+
+## Why Agentic AI Matters
+
+Enterprise systems increasingly require software that can coordinate workflows, retrieve information, invoke APIs, and interact safely with users. Agentic AI enables these capabilities by combining reasoning with action.
+
+## Summary
+
+This chapter introduces the core ideas behind Agentic AI and establishes the foundation for the remaining chapters. Later sections will explore architecture, memory, planning, tools, and enterprise implementations in greater depth.
